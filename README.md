@@ -1,2 +1,0 @@
-# rolo
-Rolo chat messenger
